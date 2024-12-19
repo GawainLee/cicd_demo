@@ -8,7 +8,7 @@ public class CicdDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CicdDemoApplication.class, args);
-		System.out.println("CI/CD demo start...");
+		System.out.println("CI/CD demo start....");
 	}
 
 }
